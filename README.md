@@ -16,6 +16,12 @@ E para executar escolha uma base:
 
 Para edicionar novas frases basta editar os arquivos as mensagens.
 
+## Configurando o fortune no terminal
+
+Adicione uma chamada ao `fortune` no final do arquivo `.bashrc`:
+
+    fortune ~/fortune-frases-pt-br/espiritas
+
 ## Rake Tasks
 
 Depois que novas mensagens forem adicionadas é necessário atualizar
